@@ -33,7 +33,7 @@
 ## 我们的维权还在继续……
 
 ## 贡献你的一份力量
-- 成为我们“第25条联盟（25thAssociation）”贡献者
+- 成为我们“[第25条联盟-庐江]（https://github.com/25thAssociation/LuJiang?from=groupmessage）”贡献者
 - 加入我们的微信群/Q群
 - 把重要的资料（图片、录音、录像等形式）传送到仓库中，
 如果你不会使用Github，也可以在微信群或Q群@第25条联盟，
