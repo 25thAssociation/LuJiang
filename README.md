@@ -5,6 +5,7 @@
 [教师工资为何低于公务员？听完最合理的解释后，我决定吃碗素面](https://c.m.163.com/news/a/D7BDBSOD0516MOTB.html?spss=newsapp&fromhistory=1)
 
 ## 背景
+![Image]( LuJiang/img/庐江县督察和目标管理办公室2 )
 2016、2017年庐江县全体教师没有发放目标考核奖
 
 ## 2017年11月初
