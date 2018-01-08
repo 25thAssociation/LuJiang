@@ -6,12 +6,14 @@
 江县教师维权进程中的点点滴滴。
 ## 背景
 
-[《中华人民共和国教师法》](https://learn.tsinghua.edu.cn/flfg/js/jiaoshifa.htm)第25条明确规定教师工资不低于当地公务员工资。
-
-**2015、2016和2017年庐江县全体教师没有发放目标考核奖**
+1. [《中华人民共和国教师法》](https://learn.tsinghua.edu.cn/flfg/js/jiaoshifa.htm)第25条明确规定教师工资不低于当地公务员工资。
+2. 安徽省总体情况
 - [安徽省各地一次性工作奖励发放情况统计表-1](https://github.com/25thAssociation/LuJiang/blob/master/img/%E5%90%84%E5%9C%B0%E4%B8%80%E6%AC%A1%E6%80%A7%E5%B7%A5%E4%BD%9C%E5%A5%96%E5%8A%B1%E5%8F%91%E6%94%BE%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8(%E5%AE%89%E5%BE%BD%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85).png?raw=true)
 - [安徽省各地一次性工作奖励发放情况统计表-2](https://github.com/25thAssociation/LuJiang/blob/master/img/%E5%90%84%E5%9C%B0%E4%B8%80%E6%AC%A1%E6%80%A7%E5%B7%A5%E4%BD%9C%E5%A5%96%E5%8A%B1%E5%8F%91%E6%94%BE%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8(%E5%AE%89%E5%BE%BD%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85)-2.png?raw=true)
 - [安徽省各地一次性工作奖励发放情况统计表-3](https://github.com/25thAssociation/LuJiang/blob/master/img/%E5%90%84%E5%9C%B0%E4%B8%80%E6%AC%A1%E6%80%A7%E5%B7%A5%E4%BD%9C%E5%A5%96%E5%8A%B1%E5%8F%91%E6%94%BE%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8(%E5%AE%89%E5%BE%BD%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85)-3.png?raw=true)
+
+3. 庐江县公务员各种奖励不断
+4. **2015、2016和2017年庐江县全体教师没有发放目标考核奖**
 <br/>
     2017年10月起，庐江县全体教师在知悉县政府公务员发放目标考核奖后,开始不断向<br/>
 县政府讨要目标考核奖……
