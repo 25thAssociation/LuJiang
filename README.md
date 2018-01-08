@@ -29,11 +29,11 @@
 不上成立了什么组织或团体进行运作。再次强调完全是自发、自愿而为！
 
 ## 历来重大事件
-- [2017年11月6日 教师们自发来到县政府]( LuJiang/2017-11-6-Activity/readme.md )
+- [2017年11月6日 教师们自发来到县政府](LuJiang/2017-11-6-Activity/readme.md)
 
 - [2018年1月2日 教师们自发来到县政府]( LuJiang/2018-1-2-Activity/readme.md )
 
-- [2018年1月8日 教师们自发来到县政府]( LuJiang/2018-1-8-Activity/readme.md )
+- [2018年1月8日 教师们自发来到县政府](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/readme.md)
 
 ？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？<br/>
 ## 贡献者
