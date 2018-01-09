@@ -10,7 +10,7 @@
 - 教师代表（4人）正在和张县长等人谈会，教师们在政府大院等候
 ![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/IMG_20171106_091859.jpg)
 ![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/IMG_20171106_091904.jpg)
-- 谈话录音
+- 谈话录音。（有录音）[暂时无法提供:arrow_down:下载录音]()
 - 谈话结束，已经中午，张县长等领导听完代表的诉求后，来到大院传达政府心声，并劝<br/>
 老师们离开，回家。
 ![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/20171106mmexport1515475747087.jpg)
