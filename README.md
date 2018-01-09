@@ -41,5 +41,11 @@
 - [2018年1月8日 教师们自发来到县政府](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/readme.md)
 
 ？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？<br/>
+## 贡献你的一份力量
+- 成为我们“[第25条联盟-庐江](https://github.com/25thAssociation/LuJiang?from=groupmessage)”贡献者
+- 加入我们的微信群/Q群
+- 把重要的资料（图片、录音、录像都可以😄）传送到仓库中，
+如果你不会使用Github，也可以在微信群或Q群@LuJiang，
+届时，一定会有援手。
 ## 贡献者
 ## 联系我们
