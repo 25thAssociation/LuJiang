@@ -19,14 +19,14 @@
 - 在场的所有教师对于这样的回复十分不满，纷纷表示王县长不出面，就不离开。
 - 随着下班将至，教师队伍越来越大，黑鸦鸦一片。县政府办公楼门前水泄不通。
 ![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/IMG_20171106_162505.jpg)
-- 张县长再次面对教师。[有录像](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/%E5%BC%A0%E5%8E%BF%E9%95%BF%E5%9C%A8%E5%8A%9E%E5%85%AC%E6%A5%BC%E5%89%8D%E9%9D%A2%E5%AF%B9%E6%95%99%E5%B8%88.mp4)
+- 张县长再次面对教师。（有录像）[:arrow_down:下载录音](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/%E5%BC%A0%E5%8E%BF%E9%95%BF%E5%9C%A8%E5%8A%9E%E5%85%AC%E6%A5%BC%E5%89%8D%E9%9D%A2%E5%AF%B9%E6%95%99%E5%B8%88.mp4)
 - 另外4个代表再次和他们谈话。
 - 教师队伍依然守候在楼下。
 ![](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/20171106mmexport1515475734187.jpg)
 ![](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/20171106mmexport1515475740840.jpg)
 ## 结果
 - 县政府表示会调研周边情况并开会讨论，三天之内给与答复。
-- 县教育局传达会谈精神（[有录音](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/%E4%B8%8B%E5%8D%88%207%E6%97%B62%E5%88%86%20.3gpp)）
+- 县教育局传达会谈精神（有录音）[:arrow_down:下载录音文件](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/%E4%B8%8B%E5%8D%88%207%E6%97%B62%E5%88%86%20.3gpp)
 - 教师们暂时散去……
 ## 教师心声
 陆续更新中……，欢迎投稿:smile:
