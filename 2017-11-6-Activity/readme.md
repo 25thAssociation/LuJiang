@@ -28,5 +28,7 @@
 - 县政府表示会调研周边情况并开会讨论，三天之内给与答复。
 - 县教育局传达会谈精神（有录音）[:arrow_down:下载录音文件](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/%E4%B8%8B%E5%8D%88%207%E6%97%B62%E5%88%86%20.3gpp)
 - 教师们暂时散去……
-## 教师心声
-陆续更新中……，欢迎投稿:smile:
+## 网友关注
+![](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/%E8%B6%85%E7%BA%A7%E6%88%AA%E5%B1%8F_20171106_193759.png)
+
+持续更新中……欢迎您提出宝贵意见:smile:
