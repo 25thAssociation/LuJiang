@@ -42,7 +42,9 @@
 
 ？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？<br/>
 ## 贡献你的一份力量
-- 成为我们“[第25条联盟-庐江](https://github.com/25thAssociation/LuJiang?from=groupmessage)”贡献者
+- 成为我们“[第25条联盟-庐江](https://github.com/25thAssociation/LuJiang?from=groupmessage)”贡献者<br/>
+1. 在GitHub上注册账号
+2. fork我们[项目](https://github.com/25thAssociation/LuJiang/)
 - 加入我们的微信群/Q群
 - 把重要的资料（图片、录音、录像都可以😄）传送到仓库中，<br/>
 如果你不会使用Github，也可以在微信群或Q群@LuJiang，<br/>
