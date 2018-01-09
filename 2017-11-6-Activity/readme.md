@@ -8,6 +8,8 @@
 - 上午各地教师纷至沓来
 ![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/IMG_20171106_090836.jpg)
 - 教师代表（4人）正在和张县长等人谈会，教师们在政府大院等候
+![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/IMG_20171106_091859.jpg)
+![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/IMG_20171106_091904.jpg)
 - 谈话录音
 - 谈话结束，已经中午，张县长等领导听完代表的诉求后，来到大院传达政府心声，并劝<br/>
 老师们离开，回家。
@@ -20,8 +22,8 @@
 - 张县长再次面对教师。[有录像](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/%E5%BC%A0%E5%8E%BF%E9%95%BF%E5%9C%A8%E5%8A%9E%E5%85%AC%E6%A5%BC%E5%89%8D%E9%9D%A2%E5%AF%B9%E6%95%99%E5%B8%88.mp4)
 - 另外4个代表再次和他们谈话。
 - 教师队伍依然守候在楼下。
-![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/IMG_20171106_091859.jpg)
-![img](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/IMG_20171106_091904.jpg)
+![](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/20171106mmexport1515475734187.jpg)
+![](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/20171106mmexport1515475740840.jpg)
 ## 结果
 - 县政府表示会调研周边情况并开会讨论，三天之内给与答复。
 - 县教育局传达会谈精神（[有录音](https://github.com/25thAssociation/LuJiang/blob/master/2017-11-6-Activity/%E4%B8%8B%E5%8D%88%207%E6%97%B62%E5%88%86%20.3gpp)）
