@@ -33,4 +33,4 @@
 - [手机录像5](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-2-Activity/201801021515544798077.mp4)
 - [手机录像6](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-2-Activity/201801021515544808423.mp4)
 <br/>
-陆续更新中……，欢迎投稿:smile:
+持续更新中……欢迎您提出宝贵意见:smile:
