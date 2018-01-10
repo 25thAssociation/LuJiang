@@ -26,10 +26,11 @@
     政府表示：随你的便，去哪都行。<br/>
     天已见黑，队伍散去。<br/>
 ## 现场回放列表
-- [手机录像1](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-2-Activity/201801021515544728491.mp4)
-- [手机录像2](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-2-Activity/201801021515544742226.mp4)
-- [手机录像3](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-2-Activity/201801021515544773307.mp4)
-- [手机录像4](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-2-Activity/201801021515544786443.mp4)
-- [手机录像5](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-2-Activity/201801021515544798077.mp4)
-- [手机录像6](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-2-Activity/201801021515544808423.mp4)
+- [手机录像1](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-2-Activity/201801021515544728491.mp4)
+- [手机录像2](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-2-Activity/201801021515544742226.mp4)
+- [手机录像3](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-2-Activity/201801021515544773307.mp4)
+- [手机录像4](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-2-Activity/201801021515544786443.mp4)
+- [手机录像5](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-2-Activity/201801021515544798077.mp4)
+- [手机录像6](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-2-Activity/201801021515544808423.mp4)
+<br/>
 陆续更新中……，欢迎投稿:smile:
