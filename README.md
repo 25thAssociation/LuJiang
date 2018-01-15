@@ -50,6 +50,8 @@
 
 - [2018年1月8日 教师们自发来到县政府](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/readme.md)
 
+- [2018年1月8日 教师们自发来到合肥市信访局](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-2-Activity/readme.md)
+
 ## 贡献你的一份力量
 - 成为我们“[第25条联盟-庐江](https://github.com/25thAssociation/LuJiang?from=groupmessage)”贡献者<br/>
 1. 在GitHub上注册账号
