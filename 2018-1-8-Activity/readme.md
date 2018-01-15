@@ -12,18 +12,22 @@
   
 ## 经过
 
-   众教师不约而同再次来到县政府，请地方县政府给予说法。<br/>
+   众教师不约而同于上午再次来到县政府，请地方县政府给予说法。<br/>
    这道好，教师们还没走几步，就开进来一辆车，下来的几个穿制服的人，由一个一身黑的小矮个领着，<br/>
 拦在了队伍前面。<br/>
    ![](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/%E5%85%AC%E5%AE%89%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E7%8E%8B%E6%9C%AC%E4%BA%AEmmexport1515756447031.jpg)
    此人据坊间人士透露，正是县公安局副局长王本亮同志。<br/>
    来着不善，善者不来。此行定受上级指示，举着“集聚违法”的幌子，恐吓大家，阻止队伍进入县政府。<br/>
-   还偷偷把站在人群外围的许老师抓起来了！<br/>
+   还偷偷把站在人群外围的徐老师抓起来了！<br/>
    ![](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/2018-1-8%E5%BE%90%E8%80%81%E5%B8%88%E8%A2%AB%E6%8A%93.jpg)
    大家都很吃惊，为什么抓人？徐老师只是在那里站着！这也违法了？<br/>
-   他们的手段之卑劣让人咬牙切齿！<br/>
+   他们的手段之卑劣让人咬牙切齿！:knife:<br/>
+   [:arrow_down:徐老师被抓1](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/20180108%E5%BE%90%E8%80%81%E5%B8%88%E8%A2%AB%E6%8A%931515756420459.mp4)<br/>
+   [:arrow_down:徐老师被抓2](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/20180108%E5%BE%90%E8%80%81%E5%B8%88%E8%A2%AB%E6%8A%931515756429068.mp4)<br/>
    
-   以下是现场录像：<br/>
+   直到晚上9点多才把徐老师放了出来！<br/>
+   无端抓人，这和流氓有区别吗？<br/>
+   以下是当天现场录像：<br/>
    [:arrow_down:下载录像1](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/201801081515519807451.mp4)<br/>
    [:arrow_down:下载录像2](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/20180108%E7%8E%B0%E5%9C%BA1515756437545.mp4)<br/>
    [:arrow_down:下载录像3](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/201801081515544263973.mp4)<br/>
