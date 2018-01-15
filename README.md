@@ -57,7 +57,8 @@
 1. 在GitHub上注册账号
 2. fork我们[项目](https://github.com/25thAssociation/LuJiang/)
 3. 提交Pull requests
-- 加入我们的微信群/Q群
+- 加入我们的微信群/Q群<br/>
+![](https://github.com/25thAssociation/LuJiang/blob/master/common/%E5%AE%89%E5%BE%BD%E6%95%99%E5%B8%88%E4%BF%A1%E6%81%AF%E4%BA%A4%E6%B5%81QQ%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 - 通过邮箱(kongzi116@outlook.com)给我们投稿
 ## 贡献者
 kongzi910;kongzi116;likuaikuai123;a哑哑（女子养生）;Lu cium;<br/>
