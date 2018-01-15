@@ -56,12 +56,11 @@
 - 成为我们“[第25条联盟-庐江](https://github.com/25thAssociation/LuJiang?from=groupmessage)”贡献者<br/>
 1. 在GitHub上注册账号
 2. fork我们[项目](https://github.com/25thAssociation/LuJiang/)
+3. 提交Pull requests
 - 加入我们的微信群/Q群
-- 把重要的资料（图片、录音、录像都可以😄）传送到仓库中，<br/>
-如果你不会使用Github，也可以在微信群或Q群@LuJiang，<br/>
-届时，一定会有援手。
+- 通过邮箱(kongzi116@outlook.com)给我们投稿
 ## 贡献者
 kongzi910;kongzi116;likuaikuai123;a哑哑（女子养生）;Lu cium;<br/>
 木木;蜡烛;不忘初心，继续前行;<br/>
 ## 联系我们
-- 投稿请发送至：kongzi910@outlook.com
+- 投稿请发送至：kongzi116@outlook.com
