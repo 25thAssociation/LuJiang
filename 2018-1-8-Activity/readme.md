@@ -22,8 +22,8 @@
    ![](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/2018-1-8%E5%BE%90%E8%80%81%E5%B8%88%E8%A2%AB%E6%8A%93.jpg)
    大家都很吃惊，为什么抓人？徐老师只是在那里站着！这也违法了？<br/>
    他们的手段之卑劣让人咬牙切齿！:knife:<br/>
-   [:arrow_down:徐老师被抓1](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/20180108%E5%BE%90%E8%80%81%E5%B8%88%E8%A2%AB%E6%8A%931515756420459.mp4)<br/>
-   [:arrow_down:徐老师被抓2](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/20180108%E5%BE%90%E8%80%81%E5%B8%88%E8%A2%AB%E6%8A%931515756429068.mp4)<br/>
+   [:arrow_down:下载徐老师被抓1](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/20180108%E5%BE%90%E8%80%81%E5%B8%88%E8%A2%AB%E6%8A%931515756420459.mp4)<br/>
+   [:arrow_down:下载徐老师被抓2](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/20180108%E5%BE%90%E8%80%81%E5%B8%88%E8%A2%AB%E6%8A%931515756429068.mp4)<br/>
    
    直到晚上9点多才把徐老师放了出来！<br/>
    无端抓人，这和流氓有区别吗？<br/>
@@ -35,9 +35,13 @@
    [:arrow_down:下载录像5](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/201801081515544303206.mp4)<br/>
    [:arrow_down:下载录像6](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/201801081515544311943.mp4)<br/>
    [:arrow_down:下载录像7](https://github.com/25thAssociation/LuJiang/raw/master/2018-1-8-Activity/201801081515544322175.mp4)<br/>
-   
-   
-   
+      
 ## 结果
+   大家对地方县政府已经失去信任了，纷纷联名给省信访局写信，表达诉求，哭诉心声。
+   ![](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/%E6%95%99%E5%B8%88%E5%9C%A8%E8%AF%B7%E6%84%BF%E4%B9%A6%E4%B8%8A%E7%AD%BE%E5%AD%97IMG_20180108_105052.jpg)
+   ![](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/%E6%95%99%E5%B8%88%E5%9C%A8%E8%AF%B7%E6%84%BF%E4%B9%A6%E4%B8%8A%E7%AD%BE%E5%AD%97IMG_20180108_105055.jpg)
+   大家的联名信于当天递交给了合肥市信访局。<br/>
+   我们的维权之路，又向前迈出了一步......<br/>
 ## 教师心声
+   ![](https://github.com/25thAssociation/LuJiang/blob/master/2018-1-8-Activity/mmexport1515408537142.jpg)
 陆续更新中……，欢迎投稿:smile:
