@@ -1,7 +1,7 @@
 # 这是一份贡献者名单
 # 目录
 - <a name="toContributions">写给贡献者</a>
-- <a name="toEditor">写给编辑者<a/>
+- <a name="toEditor">写给编辑者</a>
 - <a name="ListOfContributions">贡献者名单</a>
 ## <a href="#toContributions">写贡献者</a>
 也许这100元不算什么，也许我们未曾谋面，但是我们都是<br/>
