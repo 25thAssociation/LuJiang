@@ -2,11 +2,12 @@
 - 用户我们称之为贡献者
 - 电工负责记录，维护清单
 - 保管人负责保管资金
+- 这份清单接受用户监督
 # 目录
 <ul>
-  <li><a href="#toContributions">写给贡献者</a></li>
+  <li><a href="#toContributions">写给用户</a></li>
   <li><a href="#toEditor">写给电工</a></li>
-  <li><a href="#ListOfContributions">贡献者名单</a>
+  <li><a href="#ListOfContributions">用户清单</a>
     <ul>
       <li><a href="#xixiao">西小</a></li>
       <li><a href="#guanxiao">关小</a></li>
