@@ -51,7 +51,6 @@
 - 1 西小 赵海洋 100元 likuaikuai
 ### <a name="guanxiao"></a>
 - 1 关小 吴子芬 100元 likuaikuai
-- 2 关小 张三 100元 三旬老汉
 ### <a name="nanxiao"></a>
 - 1 南小 丁华玲 100元 三旬老汉
 - 2 南小 吴心锋 100元 三旬老汉
