@@ -3,6 +3,9 @@
 - <a href="#tocontributions">写给贡献者</a>
 - <a href="#toEditor">写给编辑者</a>
 - <a href="#ListOfContributions">贡献者名单</a>
+  - <a href="#xixiao">西小</a>
+  - <a href="#guanxiao">关小</a>
+  - <a href="#nanxiao">南小</a>
 ## <a name="tocontributions">写贡献者</a>
 也许这100元不算什么，也许我们未曾谋面，但是我们都是<br/>
 庐江老师，你知道这意味这什么，对吗？<br/>
@@ -35,13 +38,14 @@
 - 4 联合国教科文组织 正义人士 100元 三旬老汉<br/>
 - ...
 - 999 联合国教科文组织 潘金文 100元 三旬老汉<br/>
-
+- ...
 ----
 ## <a name="ListOfContributions">贡献者名单</a>
+### <a name="xixiao">西小</a>
 - 1 西小 赵海洋 100元 三旬老汉
----
+### <a name="guanxiao">关小</a>
 - 1 关小 吴子芬 100元 三旬老汉
----
+### <a name="nanxiao">南小</a>
 - 1 南小 丁华玲 100元 三旬老汉
 - 2 南小 吴心锋 100元 三旬老汉
 - 3 南小 朱玉荣 100元 三旬老汉
