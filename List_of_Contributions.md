@@ -56,8 +56,8 @@
 - 999 联合国教科文组织 潘金文 100元 三旬老汉<br/>
 - ...
 2. **参考教程**<br/>
-- [gif版](LuJiang/common/15183629789391518362961650.gif)
-- [视频版]()
+- [gif版](https://github.com/25thAssociation/LuJiang/blob/master/common/15183629789391518362961650.gif)
+- [视频版](http://v.youku.com/v_show/id_XMzM5NTQwNjg1Ng==.html?x&sharefrom=android&sharekey=42a726955348fa311977ddd20baadf339)
 ----
 ## <a name="ListOfContributions">用户清单</a>
 ### <a name="xixiao"></a>
