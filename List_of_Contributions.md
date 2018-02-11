@@ -1,12 +1,14 @@
 # 这是一份贡献者名单
 # 目录
-- <a href="#tocontributions">写给贡献者</a>
-- <a href="#toEditor">写给编辑者</a>
-- <a href="#ListOfContributions">贡献者名单</a>
 <ul>
-  <li><a href="#xixiao">西小</a></li>
-  <li><a href="#guanxiao">关小</a></li>
- <li><a href="#nanxiao">南小</a></li>
+  <li><a href="#tocontributions">写给贡献者</a></li>
+  <li><a href="#toEditor">写给编辑者</a></li>
+  <li><a href="#ListOfContributions">贡献者名单</a></li>
+  <ul>
+    <li><a href="#xixiao">西小</a></li>
+    <li><a href="#guanxiao">关小</a></li>
+    <li><a href="#nanxiao">南小</a></li>
+  </ul>
  </ul>
 ## <a name="tocontributions">写给贡献者</a>
 也许这100元不算什么，也许我们未曾谋面，但是我们都是<br/>
