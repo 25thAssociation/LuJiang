@@ -3,7 +3,7 @@
 - <a name="tocontributions">写给贡献者</a>
 - <a name="toEditor">写给编辑者</a>
 - <a name="ListOfContributions">贡献者名单</a>
-## <a href="#toContributions">写贡献者</a>
+## <a href="#tocontributions">写贡献者</a>
 也许这100元不算什么，也许我们未曾谋面，但是我们都是<br/>
 庐江老师，你知道这意味这什么，对吗？<br/>
     既然是庐江老师，就不能认怂，为了我们尊严，去斗争！<br/>
