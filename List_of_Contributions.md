@@ -1,7 +1,7 @@
 # 这是一份贡献者名单
 # 目录
 <ul>
-  <li><a href="#tocontributions">写给贡献者</a></li>
+  <li><a href="#toContributions">写给贡献者</a></li>
   <li><a href="#toEditor">写给编辑者</a></li>
   <li><a href="#ListOfContributions">贡献者名单</a>
     <ul>
@@ -12,7 +12,7 @@
    </li>
  </ul>
  
-## <a name="tocontributions">写给贡献者</a>
+## <a name="toContributions">写给贡献者</a>
 也许这100元不算什么，也许我们未曾谋面，但是<br/>
 我们都是庐江老师，你知道这意味这什么，对吗？<br/>
 既然是庐江老师，就不能认怂，为了我们尊严，去斗争！<br/>
@@ -47,12 +47,12 @@
 - ...
 ----
 ## <a name="ListOfContributions">贡献者名单</a>
-### <a name="xixiao">西小</a>
+### <a name="xixiao"></a>
 - 1 西小 赵海洋 100元 三旬老汉
-### <a name="guanxiao">关小</a>
+### <a name="guanxiao"></a>
 - 1 关小 吴子芬 100元 三旬老汉
 - 2 关小 张三 100元 三旬老汉
-### <a name="nanxiao">南小</a>
+### <a name="nanxiao"></a>
 - 1 南小 丁华玲 100元 三旬老汉
 - 2 南小 吴心锋 100元 三旬老汉
 - 3 南小 朱玉荣 100元 三旬老汉
