@@ -28,10 +28,7 @@
 如有遗漏或错误，请与本单位电工联系。<br/>
 ## <a name="toEditor">写给电工</a>
 - **怎么更新用户清单？**<br/>
-1. 向“三旬老汉”索取账号及密码
-2. 登录https://github.com 网站
-3. 点击[用户清单](https://github.com/25thAssociation/LuJiang/blob/master/List_of_Contributions.md)进去仓库找到文件
-4. 点击 :pencil: 图标，就可以编辑文件了<br/>
+1. **编辑文件之前请务必阅读以下说明：**<br/>
 **用户清单** 下面的每条记录要以“- ”开头，间隔横线后面的空格不能少！<br/>
 后面的五个字段：序号、单位、姓名、额度和保管人要以空格隔开。<br/>
 **序号:** 同一单位下，序号具有唯一性。<br/>
@@ -58,12 +55,15 @@
 - ...
 - 999 联合国教科文组织 潘金文 100元 三旬老汉<br/>
 - ...
+2. **参考教程**<br/>
+- [gif版](LuJiang/common/15183629789391518362961650.gif)
+- [视频版]()
 ----
 ## <a name="ListOfContributions">用户清单</a>
 ### <a name="xixiao"></a>
 - 1 西小 赵海洋 100元 likuaikuai
 ### <a name="guanxiao"></a>
-- 1 关小 吴子芬 100元 likuaikuai
+- 1 关小 吴子芬 100元 三旬老汉
 ### <a name="nanxiao"></a>
 - 1 南小 丁华玲 100元 三旬老汉
 - 2 南小 吴心锋 100元 三旬老汉
