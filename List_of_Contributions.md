@@ -14,6 +14,7 @@
       <li><a href="#guanxiao">关小</a></li>
       <li><a href="#nanxiao">南小</a></li>
       <li><a href="#peixiao">裴岗小学</a></li>
+      <li><a href="#郭河明德小学">郭河明德小学</a></li>
     </ul>
    </li>
  </ul>
@@ -105,3 +106,6 @@
 
 ### <a name="peixiao"></a>
 - 1 裴岗小学 陈女士 100元 三旬老汉
+
+### <a name="郭河明德小学"></a>
+- 1 郭河明德小学 王老师 100元 三旬老汉
