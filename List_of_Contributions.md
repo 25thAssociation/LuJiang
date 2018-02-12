@@ -58,8 +58,9 @@
 - **怎么更新用户清单？**<br/>
 1. 联系“三旬老汉”，索要账号密码
 2. 参考教程<br/>
-- [gif版](https://github.com/25thAssociation/LuJiang/blob/master/common/15183629789391518362961650.gif)
-- [视频版](http://v.youku.com/v_show/id_XMzM5NTQwNjg1Ng==.html?x&sharefrom=android&sharekey=42a726955348fa311977ddd20baadf339)
+   - [gif版](https://github.com/25thAssociation/LuJiang/blob/master/common/15183629789391518362961650.gif)
+   - [视频版](http://v.youku.com/v_show/id_XMzM5NTQwNjg1Ng==.html?x&sharefrom=android&sharekey=42a726955348fa311977ddd20baadf339)
+
 - **为什么不让三旬老汉一个负责更新用户清单？**<br/>
 如果全由一个人负责更新势必完成沟通不畅。
 只有各单位员工更了解了解本单位情况，"用户--->本单位电工"与"用户--->本单位电工--->三旬老汉"哪种模式沟通更高效？
