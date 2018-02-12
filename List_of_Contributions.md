@@ -13,6 +13,7 @@
       <li><a href="#xixiao">西小</a></li>
       <li><a href="#guanxiao">关小</a></li>
       <li><a href="#nanxiao">南小</a></li>
+      <li><a href="#peixiao">裴岗小学</a></li>
     </ul>
    </li>
  </ul>
@@ -95,3 +96,6 @@
 - 27 南小 韩冬梅 30元 三旬老汉
 - 28 南小 张先生 100元 三旬老汉
 - 29 南小 许芹 100元 三旬老汉
+
+### <a name="#peixiao"></a>
+- 1 裴岗小学 陈女士 100元 三旬老汉
