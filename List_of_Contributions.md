@@ -6,13 +6,14 @@
 - 这份清单接受用户监督
 # 目录
 <ul>
-  <li><a href="#toContributions">写给用户</a></li>
+  <li><a href="#toContributions">写给用户</a>
     <ul>
       <li><a href="#tc01">为什么义捐?</a></li>
-      <li><a href="#tco2">怎么义捐？</a></li>
+      <li><a href="#tc02">怎么义捐？</a></li>
       <li><a href="#tc03">实不实名？</a></li>
       <li><a href="#tc04">捐了，名字不在名单里？</a></li>
     </ul>
+  </li>
   <li><a href="#toEditor">写给电工</a>
     <ul>
       <li><a href="#te01">用户清单看不懂，每一行能读出哪些信息？</a></li>
