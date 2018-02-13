@@ -9,7 +9,7 @@
   <li><a href="#toContributions">写给用户</a></li>
     <ul>
       <li><a href="#tc01">为什么义捐?</a></li>
-      <li><a href="#tco2"></a>怎么义捐？</a></li>
+      <li><a href="#tco2">怎么义捐？</a></li>
       <li><a href="#tc03">实不实名？</a></li>
       <li><a href="#tc04">捐了，名字不在名单里？</a></li>
     </ul>
@@ -41,7 +41,7 @@
 众人拾柴火焰高🔥燃烧自己才能看见脚下的路<br/>
 <a name="tc02"></a>
 - **怎么义捐？**<br/>
-    - 途径一：通过本单位电工<br/>
+    - 途径一：交给本单位电工<br/>
     - 途径二：交给“三旬老汉”<br/>
 以下是“三旬老汉”的支付宝和微信收款二维码。<br/>
       - [点击使用支付宝支付](https://github.com/25thAssociation/LuJiang/blob/master/common/zhifubaozhifu.JPG)
@@ -52,7 +52,7 @@
 在用户清单里，你可以向电工要求不实名，但实名对他人，对自己都是一种激励！<br/>
 <a name="tc04"></a>
 - **捐了，名字不在清单里？**<br/>
-如有遗漏或错误，请与本单位电工联系。<br/>
+如有遗漏或错误，请与保管人联系。<br/>
 ## <a name="toEditor">写给电工</a>
 <a name="te01"></a>
 - **用户清单看不懂，每一行能读出哪些信息？**<br/>
