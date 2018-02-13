@@ -13,12 +13,13 @@
       <li><a href="#tc03">实不实名？</a></li>
       <li><a href="#tc04">捐了，名字不在名单里？</a></li>
     </ul>
-  <li><a href="#toEditor">写给电工</a></li>
+  <li><a href="#toEditor">写给电工</a>
     <ul>
       <li><a href="#te01">用户清单看不懂，每一行能读出哪些信息？</a></li>
       <li><a href="#te02">怎么更新用户清单？</a></li>
       <li><a href="#te03">当资金发生转移时，保管人该做些什么？</a></li>
     </ul>
+  </li>
   <li><a href="#ListOfContributions">用户清单</a>
     <ul>
       <li><a href="#城西小学">城西小学</a></li>
@@ -34,6 +35,7 @@
     </ul>
    </li>
  </ul>
+ 
 ## <a name="toContributions">写给用户</a>
 <a name="tc01"></a>
 - **为什么义捐？**<br/>
