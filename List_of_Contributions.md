@@ -29,18 +29,16 @@
 - **为什么缴电费？**<br/>
 众人拾柴火焰高🔥燃烧自己才能看见脚下的路<br/>
 - **怎么缴费？**<br/>
-把费用交给本单位的电工(本单位推选产生)<br/>
+    - 途径一：通过本单位电工<br/>
+    - 途径二：交给“三旬老汉”<br/>
+以下是“三旬老汉”的支付宝和微信收款二维码。<br/>
+      - [点击使用支付宝支付](https://github.com/25thAssociation/LuJiang/blob/master/common/zhifubaozhifu.JPG)
+      - [点击使用微信支付](https://github.com/25thAssociation/LuJiang/blob/master/common/weixinzhifu.JPG)<br/>
+来款请注明单位，姓名（我们不会公布您的真实姓名，除非经过您本人同意)<br/>
 - **实不实名？**<br/>
 在用户清单里，你可以向电工要求不实名，但实名对他人，对自己都是一种激励！<br/>
 - **交了费，名字不在清单里？**<br/>
 如有遗漏或错误，请与本单位电工联系。<br/>
-## <a name="toPay">义捐方式</a>
-- 途径一：通过本单位电工<br/>
-- 途径二：交给“三旬老汉”<br/>
-以下是“三旬老汉”的支付宝和微信收款二维码。<br/>
-  - [点击使用支付宝支付](https://github.com/25thAssociation/LuJiang/blob/master/common/zhifubaozhifu.JPG)
-  - [点击使用微信支付](https://github.com/25thAssociation/LuJiang/blob/master/common/weixinzhifu.JPG)<br/>
-来款请注明单位，姓名（我们不会公布您的真实姓名，除非经过您本人同意)<br/>
 ## <a name="toEditor">写给电工</a>
 - **用户清单看不懂，每一行能读出哪些信息？**<br/>
   - **用户清单** 每条记录有五个字段组成，五个字段：序号、单位、姓名、额度和保管人依次以一个空格隔开。<br/>
