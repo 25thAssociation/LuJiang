@@ -48,6 +48,7 @@
 以下是“三旬老汉”的支付宝和微信收款二维码。<br/>
       - [点击使用支付宝支付](https://github.com/25thAssociation/LuJiang/blob/master/common/zhifubaozhifu.JPG)
       - [点击使用微信支付](https://github.com/25thAssociation/LuJiang/blob/master/common/weixinzhifu.JPG)<br/>
+
 来款请注明单位，姓名（我们不会公布您的真实姓名，除非经过您本人同意)<br/>
 <a name="tc03"></a>
 - **实不实名？**<br/>
