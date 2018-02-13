@@ -8,16 +8,16 @@
 <ul>
   <li><a href="#toContributions">写给用户</a></li>
     <ul>
-      <li><a href="#tc01"></a>为什么义捐?</li>
-      <li><a href="#tco2"></a>怎么义捐？</li>
-      <li><a href="#tc03"></a>实不实名？</li>
-      <li><a href="#tc04"></a>捐了，名字不在名单里？</li>
+      <li><a href="#tc01">为什么义捐?</a></li>
+      <li><a href="#tco2"></a>怎么义捐？</a></li>
+      <li><a href="#tc03">实不实名？</a></li>
+      <li><a href="#tc04">捐了，名字不在名单里？</a></li>
     </ul>
   <li><a href="#toEditor">写给电工</a></li>
     <ul>
-      <li><a href="#te01"></a>用户清单看不懂，每一行能读出哪些信息？</li>
-      <li><a href="#te02"></a>怎么更新用户清单？</li>
-      <li><a href="#te03"></a>当资金发生转移时，保管人该做些什么</li>
+      <li><a href="#te01">用户清单看不懂，每一行能读出哪些信息？</a></li>
+      <li><a href="#te02">怎么更新用户清单？</a></li>
+      <li><a href="#te03">当资金发生转移时，保管人该做些什么？</a></li>
     </ul>
   <li><a href="#ListOfContributions">用户清单</a>
     <ul>
