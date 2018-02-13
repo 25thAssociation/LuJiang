@@ -37,8 +37,9 @@
 ## <a name="toPay">义捐方式</a>
 - 途径一：通过本单位电工<br/>
 - 途径二：交给“三旬老汉”，以下是“三旬老汉”的支付宝和微信收款二维码。<br/>
-[img](https://github.com/25thAssociation/LuJiang/blob/master/common/mm_facetoface_collect_qrcode_1518551982502.png)
+![](https://github.com/25thAssociation/LuJiang/blob/master/common/zhifubaizhifu.jpg)
 
+![](https://github.com/25thAssociation/LuJiang/blob/master/common/zhifubaizhifu.jpg)
 ## <a name="toEditor">写给电工</a>
 - **用户清单看不懂，每一行能读出哪些信息？**<br/>
   - **用户清单** 每条记录有五个字段组成，五个字段：序号、单位、姓名、额度和保管人依次以一个空格隔开。<br/>
