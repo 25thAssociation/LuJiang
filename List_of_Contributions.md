@@ -8,17 +8,16 @@
 <ul>
   <li><a href="#toContributions">写给用户</a></li>
     <ul>
-      <li><a href="#为什么义捐"></a>为什么义捐?</li>
-      <li><a href="#怎么义捐"></a>怎么义捐？</li>
-      <li><a href="#实不实名"></a>实不实名？</li>
-      <li><a href="#捐了名字不在名清单里"></a>捐了，名字不在名单里？</li>
+      <li><a href="#tc01"></a>为什么义捐?</li>
+      <li><a href="#tco2"></a>怎么义捐？</li>
+      <li><a href="#tc03"></a>实不实名？</li>
+      <li><a href="#tc04"></a>捐了，名字不在名单里？</li>
     </ul>
   <li><a href="#toEditor">写给电工</a></li>
     <ul>
-      <li><a href="#用户清单看不懂，每一行能读出哪些信息"></a>用户清单看不懂，每一行能读出哪些信息？</li>
-      <li><a href="#怎么更新用户清单"></a>怎么更新用户清单？</li>
-      <li><a href="#当资金发生转移时，保管人该做些什么"></a>当资金发生转移时，保管人该做些什么</li>
-      <li><a href="#"></a></li>
+      <li><a href="#te01"></a>用户清单看不懂，每一行能读出哪些信息？</li>
+      <li><a href="#te02"></a>怎么更新用户清单？</li>
+      <li><a href="#te03"></a>当资金发生转移时，保管人该做些什么</li>
     </ul>
   <li><a href="#ListOfContributions">用户清单</a>
     <ul>
@@ -37,10 +36,10 @@
  </ul>
  
 ## <a name="toContributions">写给用户</a>
-<a name="为什么义捐"></a>
+<a name="tc01"></a>
 - **为什么义捐？**<br/>
 众人拾柴火焰高🔥燃烧自己才能看见脚下的路<br/>
-<a name="怎么义捐"></a>
+<a name="tc02"></a>
 - **怎么义捐？**<br/>
     - 途径一：通过本单位电工<br/>
     - 途径二：交给“三旬老汉”<br/>
@@ -48,14 +47,14 @@
       - [点击使用支付宝支付](https://github.com/25thAssociation/LuJiang/blob/master/common/zhifubaozhifu.JPG)
       - [点击使用微信支付](https://github.com/25thAssociation/LuJiang/blob/master/common/weixinzhifu.JPG)<br/>
 来款请注明单位，姓名（我们不会公布您的真实姓名，除非经过您本人同意)<br/>
-<a name="实不实名"></a>
+<a name="tc03"></a>
 - **实不实名？**<br/>
 在用户清单里，你可以向电工要求不实名，但实名对他人，对自己都是一种激励！<br/>
-<a name="捐了，名字不在清单里"></a>
+<a name="tc04"></a>
 - **捐了，名字不在清单里？**<br/>
 如有遗漏或错误，请与本单位电工联系。<br/>
 ## <a name="toEditor">写给电工</a>
-<a name="用户清单看不懂，每一行能读出哪些信息"></a>
+<a name="te01"></a>
 - **用户清单看不懂，每一行能读出哪些信息？**<br/>
   - **用户清单** 每条记录有五个字段组成，五个字段：序号、单位、姓名、额度和保管人依次以一个空格隔开。<br/>
 编辑时，因格式化需要，每条记录要以“-”开头，"-"和**序号**之间用一个空格隔开。<br/>
@@ -83,13 +82,13 @@
     - ...
     - 999 联合国教科文组织 潘金文 100元 三旬老汉<br/>
     - ...
-<a name="怎么更新用户清单"></a>
+<a name="te02"></a>
 - **怎么更新用户清单？**<br/>
 1. 联系“三旬老汉”，索要账号密码
 2. 参考教程<br/>
    - [gif版](https://github.com/25thAssociation/LuJiang/blob/master/common/15183629789391518362961650.gif)
    - [视频版](http://v.youku.com/v_show/id_XMzM5NTQwNjg1Ng==.html?x&sharefrom=android&sharekey=42a726955348fa311977ddd20baadf339)
-<a name="当资金发生转移时，保管人该做些什么"></a>
+<a name="te03"></a>
 - **当资金发生转移时，保管人该做些什么？**<br/>
 当资金转移时，下级保管人务必更新资金去向：即填写上级保管人昵称，并由上级保管人确认。<br/>
 
