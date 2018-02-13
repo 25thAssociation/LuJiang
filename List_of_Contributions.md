@@ -16,7 +16,7 @@
       <li><a href="#peixiao">裴岗小学</a></li>
       <li><a href="#郭河明德小学">郭河明德小学</a></li>
       <li><a href="#万山">万山</a></li>
-      <li><a href="#其它">其它</a></li>a
+      <li><a href="#其它">其它</a></li>
     </ul>
    </li>
  </ul>
