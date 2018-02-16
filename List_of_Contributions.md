@@ -305,5 +305,4 @@
 - 27 其他 唐氏 100元 爱唯一 
 
 ## <a name="toContactMe">联系三旬老汉</a>
-- [点击加支付宝好友](https://github.com/25thAssociation/LuJiang/blob/master/common/加我支付宝好友.jpg)
-- [点击加微信好友](https://github.com/25thAssociation/LuJiang/blob/master/common/加我微信.jpg)<br/>
+- **Email:** kongzi116@outlook.com
