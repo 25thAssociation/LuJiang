@@ -15,9 +15,9 @@
 1. [《中华人民共和国教师法》](https://learn.tsinghua.edu.cn/flfg/js/jiaoshifa.htm)第25条明确规定教师工资不低于当地公务员工资。<br/>
     （1993年10月31日第八届全国人民代表大会常务委员会第四次会议通过）
 2. 安徽省总体情况:<br/>
-- [安徽省各地一次性工作奖励发放情况统计表-1]( LuJiang/common/各地一次性工作奖励发放情况统计表(安徽省教育厅)-1.png )
-- [安徽省各地一次性工作奖励发放情况统计表-2]( LuJiang/common/各地一次性工作奖励发放情况统计表(安徽省教育厅)-2.png )
-- [安徽省各地一次性工作奖励发放情况统计表-3]( LuJiang/common/各地一次性工作奖励发放情况统计表(安徽省教育厅)-3.png )
+- [安徽省各地一次性工作奖励发放情况统计表-1]( https://github.com/25thAssociation/LuJiang/blob/master/common/%E5%90%84%E5%9C%B0%E4%B8%80%E6%AC%A1%E6%80%A7%E5%B7%A5%E4%BD%9C%E5%A5%96%E5%8A%B1%E5%8F%91%E6%94%BE%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8(%E5%AE%89%E5%BE%BD%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85)-1.png )
+- [安徽省各地一次性工作奖励发放情况统计表-2]( https://github.com/25thAssociation/LuJiang/blob/master/common/%E5%90%84%E5%9C%B0%E4%B8%80%E6%AC%A1%E6%80%A7%E5%B7%A5%E4%BD%9C%E5%A5%96%E5%8A%B1%E5%8F%91%E6%94%BE%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8(%E5%AE%89%E5%BE%BD%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85)-2.png)
+- [安徽省各地一次性工作奖励发放情况统计表-3]( https://github.com/25thAssociation/LuJiang/blob/master/common/%E5%90%84%E5%9C%B0%E4%B8%80%E6%AC%A1%E6%80%A7%E5%B7%A5%E4%BD%9C%E5%A5%96%E5%8A%B1%E5%8F%91%E6%94%BE%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8(%E5%AE%89%E5%BE%BD%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85)-3.png )
 
 3. 庐江县公务员各种奖励不断:<br/>
 - [2016年度目标管理考核奖发放通知(庐江县督察和目标管理办公室)](https://github.com/25thAssociation/LuJiang/blob/master/common/2016%E5%B9%B4%E5%BA%A6%E7%9B%AE%E6%A0%87%E7%AE%A1%E7%90%86%E8%80%83%E6%A0%B8%E5%A5%96%E5%8F%91%E6%94%BE%E9%80%9A%E7%9F%A5(%E5%BA%90%E6%B1%9F%E5%8E%BF%E7%9D%A3%E5%AF%9F%E5%92%8C%E7%9B%AE%E6%A0%87%E7%AE%A1%E7%90%86%E5%8A%9E%E5%85%AC%E5%AE%A4).png)
